@@ -1,0 +1,29 @@
+| Nome colonna             | Tipo di dato | Attributi | Indice |
+| ------------------------ | ------------ | --------- | ------ |
+| id                       |              |           |        |
+| numero_targa             |              |           |        |
+| Marca                    |              |           |        |
+| modello                  |              |           |        |
+| motore                   |              |           |        |
+| cambio                   |              |           |        |
+| numero_marce             |              |           |        |
+| numero_cavalli           |              |           |        |
+| alimentazione            |              |           |        |
+| truccata                 |              |           |        |
+| accelerazione_da_0_a_100 |              |           |        |
+| velocità_massima         |              |           |        |
+| sponsorizzata            |              |           |        |
+| anno_fabbricazione       |              |           |        |
+| anno_immatricolazione    |              |           |        |
+| chilometri_percorsi      |              |           |        |
+| tagliandi_regolari       |              |           |        |
+| ultimo_tagliando         |              |           |        |
+| revisione                |              |           |        |
+| incidenti                |              |           |        |
+| stato_scocca             |              |           |        |
+| stato_ciclistico         |              |           |        |
+| numero_proprietari       |              |           |        |
+| descrizione_veicolo      |              |           |        |
+| possibilità_di_leasing   |              |           |        |
+| prezzo_stimato           |              |           |        |
+| prezzo_trattabile        |              |           |        |
